@@ -123,6 +123,5 @@ class All_Forms
 		  when 500...600
 		    puts response.code
 		end
-	end	
-
+	end
 end
